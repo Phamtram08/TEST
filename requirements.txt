@@ -1,0 +1,9 @@
+# requirements.txt - Các thư viện tương thích Python 3.13
+streamlit==1.31.1
+pandas==2.2.0
+numpy==1.26.3
+yfinance==0.2.37
+plotly==5.18.0
+requests==2.31.0
+openpyxl==3.1.2
+pillow==10.2.0
